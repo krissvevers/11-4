@@ -7,10 +7,12 @@
 #5. Jānodrošina priekšmetu un atzīmju saglabāšana failā (json.dumps)
 #6. Jānodrošina priekšmetu un atzīmju ielāde no faila (json.load)
 #7. Jānodrošina priekšmetu un atzīmju dzēšana
-# Atzīmes var glabāt
+# Atzīmes var glabāt klasē
 class prieksmets:
     nosaukums = ""
     atzimes = []
-# vai
+# vai (labāk) vārdnīcā
 atzimes = { "prieksmets1" : [] }
 atzimes["citsprieksmets"] = []
+for key, value in atzimes.items():
+    print (key, value)
