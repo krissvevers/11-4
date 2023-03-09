@@ -1,5 +1,5 @@
 Nosacījumi:
-
+===
 1. Darbu izstrādā vai nu individuāli, vai grupās līdz 2(!) cilvēkiem iepriekš piesakot to, vai nu mutiski, vai caur e-klasi (jāizdara pirms darba nodošanas).
 1.1. Grupu darba gadījumā jāiesniedz darbs abiem, pierakstot, ka ir strādājis kopā ar noteiktu cilvēku.
 1.2. Ja vienu darbu iesniegs vairāki cilvēki (ja strādā individuāli), vai vairāk par diviem cilvēkiem (ja strādā grupā) - visiem iesaistītajiem tiks izlikta atzīme 1.
@@ -28,6 +28,7 @@ Nosacījumi:
 
 
 Vērtēšana:
+===
 1. Klašu diagramma - 4 balles 
 1.1. Tiks pārbaudīts, vai atbilst prasībām - vai ir pietiekams klašu skaits, vai ir mantotas klases, vai klases ir savienotas, un klasēm ir vismaz viena funkcija VAI viens mainīgais.
 1.2. Daži dizaini ir labāki par citiem, bet šī darba mērķis nav noskaidrot, cik labi jūs mākat sadalīt situācijas mazākās daļās, bet gan cik labi jūs saprotat klašu konceptu un kā to pielietot. Tādēļ nevērtēšu tēmas izvēli, un to, cik reālistiska, ir jūsu ideja.
@@ -42,5 +43,7 @@ Vērtēšana:
 2.2.5.1. __init__ funkcija, ar vairākiem argumentiem
 2.2.5.2. Vairāki klašu konstruktori (stundā netika apskatīti, internetā informāciju var atrast meklējot ‘classmethod’), 
 2.2.5.3. super() funkcijas pielietojums mantotajās klasēs, pieņemot, ka šīs funkcijas rezultāts kaut kā ir izmantots, vai papildināts.
-2.3. Piezīme - manos piemēros visiem mainīgajiem un funkcijām ir pierakstīti datu tipi. Jūsu darbos tie nav obligāti. Tāpat arī Es neskatīšos uz koda stilu (manos piemēros klašu mainīgie sākas ar apakšsvītru, bet tas nav obligāti).
+2.2.5.3. Mainīgajiem un funkcijām ir pierakstīti datu tipi. Jūsu darbos tie nav obligāti.
+3. Es neskatīšos uz koda stilu (manos piemēros klašu mainīgie sākas ar apakšsvītru, funkciju nosaukimi ir ar lielo burtu, bet to parametri- ar mazo).
+
 Kopā: 10b
