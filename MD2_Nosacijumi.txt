@@ -17,7 +17,7 @@ Nosacījumi:
 3.3. Klašu diagrammā jāattēlo visas funkcijas, kas ir saistītas ar šīm klasēm. Šiem mainīgajiem vajag norādīt arī parametrus, to datu tipus, un atgriezto datu tipu.
 3.3.1. Restorāna gadījumā - iegūt ēdiena cenu saskaitot sastāvdaļu cenas, darbinieku kop. algu saskaitot visu darbinieku algas utt.
 3.4. Klašu diagrammā vajag būt vismaz 10 klasēm
-3.5. Klašu diagrammā vajag būt vismaz 2 mantotām klasēm (šīs klases ir iekļautas 10 klašu prasībā), t.i., var būt 8 unikālas klases, un 2 mantotas. Mantotām klasēm jānorāda bāzes klases nosaukums.
+3.5. Klašu diagrammā vajag būt vismaz 2 mantotām klasēm (šīs klases ir iekļautas 10 klašu prasībā, t.i., var būt 8 unikālas klases, un 2 mantotas). Mantotām klasēm jānorāda bāzes klases nosaukums.
 3.6. Klašu diagrammā klasēm vajag būt savienotām ar līnijām, lai var redzēt, kas ir savienots ar ko.
 4. Jāizstrādā programma, kas seko klašu diagrammai
 4.1. Programmā ir jāimplementē visas klases, kas ir jūsu klašu diagrammā
