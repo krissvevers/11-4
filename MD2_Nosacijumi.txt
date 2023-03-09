@@ -24,6 +24,7 @@ Nosacījumi:
 4.2. Programmā ir jāimplementē jūsu izvēlētā darbība
 4.2.1. Restorāna gadījumā šī darbība bija pirkuma veikšana, cenas aprēķināšana, un pārbaude vai klients to var vispār atļauties
 4.3. Vismaz vienai mantotai klasei vajadzētu pārrakstīt vai nu mainīgo, vai funkciju, no bāzes klases 4.3.1. Restorāna piemērā – viesmīļa CalculateSalary funkcija pārraksta galvenās klases CalculateSalary funkciju.
+5. Piezīme - piemērā dažas klases nav saistītas ar funkcionalitāti (piemēram algas) - tās ir tikai, lai demonstrētu kā klasēs tas viss izskatās. Jūsu darbos cenšaties izveidot klases tā, lai visas klases iesaistītas jūsu izvēlētās darbības izpildē.
 
 
 Vērtēšana:
