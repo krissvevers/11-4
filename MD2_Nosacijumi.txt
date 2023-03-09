@@ -11,7 +11,7 @@ Nosacījumi:
 3. Jāizstrādā klašu diagramma līdzīgu piemēram, kas ir pieejams https://github.com/idmelkis/11-4/blob/master/klasupiemers-restorans/Klases.drawio. Lai atvērtu diagrammu, novelkat failu un atverat viņu https://app.diagrams.net/
 3.1. Klašu diagrammā jāattēlo visi iesaistītie objekti (klases)
 3.1.1. Restorāna gadījumā tas bija pats restorāns, darbinieki, klients, ēdiens, tā sastāvdaļas.
-3.2. Klašu diagrammā jāattēlo visi mainīgie kas ir saistīti ar šīm klasēm. Šiem mainīgajiem vajag norādīt arī datu tipu (int - nat. skaitlis, float - daļskaitlis, list - saraksts (masīvs), dict - vārdnīca, bool - True/False...).
+3.2. Klašu diagrammā jāattēlo visi mainīgie kas ir saistīti ar šīm klasēm. Šiem mainīgajiem vajag norādīt arī datu tipu (int - skaitlis, float - daļskaitlis, list - saraksts (masīvs), dict - vārdnīca, bool - True/False...).
 3.2.1. Restorāna gadījumā - sastāvdaļām bija cena, ēdienam bija sastāvdaļas, klientiem tā bija pieejamā nauda, pasūtījumā bija ēdienu saraksts utt.
 3.2.2. Nav obligāti, ka katrai klasei ir funkcija UN kāds mainīgais (tas it īpaši attiecas uz mantotām klasēm), bet ir jābūt vismaz vienam no tiem.
 3.3. Klašu diagrammā jāattēlo visas funkcijas, kas ir saistītas ar šīm klasēm. Šiem mainīgajiem vajag norādīt arī parametrus, to datu tipus, un atgriezto datu tipu.
