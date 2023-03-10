@@ -119,6 +119,7 @@ class Food:
     _ingredients: 'list[Ingredient]'
     _name: str
 
+# Klašu pielietošana (darbības izpilde - klients var nopirkt ēdienu)
 Janis = Waiter("Janis")
 Emils = Cook("Emils")
 
