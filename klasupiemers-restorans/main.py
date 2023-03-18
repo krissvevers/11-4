@@ -95,7 +95,7 @@ class Kitchen:
         else:
             print("Nav pieejami pavāri!")
        
-       # Pārbauda vai ir sastāvdaāls
+       # Pārbauda vai ir sastāvdaļas
         for ingredient in recipe._ingredients:
             isIngredientAvailable = False
             for availableIngredient in self._availableIngredients.keys():
